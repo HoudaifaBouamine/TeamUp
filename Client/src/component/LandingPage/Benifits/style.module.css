@@ -58,7 +58,7 @@
 
 .card {
   display: flex;
-  width: 281px;
+  /* width: 281px; */
   padding: 29px 24px;
   flex-direction: column;
   align-items: flex-start;
